@@ -2,3 +2,4 @@ bismillah wal hamdulillah
 Assalamualaikum
 fullstack engineer
 selamat belajar git
+semangat belajar git
